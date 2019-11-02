@@ -1,0 +1,5 @@
+                        React concepts.
+                1.Don't touch the DOM.I'll do it.
+                2.Build websites like lego blocks.
+                3.Unidirectional data flow.
+                4.UI, the rest is up to you.
