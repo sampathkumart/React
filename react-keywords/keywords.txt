@@ -1,0 +1,7 @@
+React keywords
+1.Declarative
+2.JSX
+3.components
+4.state
+5.props
+6.virtualDOM
