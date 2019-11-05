@@ -4,4 +4,4 @@ specific component. The component itself will update the state using the setStat
 
 Props - Data passed in from a parent component. props are read-only in the child 
 component that receives them. However, callback functions can also be passed, 
-which can be executed inside the child to initiate an update.
+which can be executed inside the child to initiate an update.   
