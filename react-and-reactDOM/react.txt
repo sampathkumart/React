@@ -1,0 +1,5 @@
+React and ReactDOM:
+    As the name implies, ReactDOM is the glue between React and the DOM. ... The 
+    reason React and ReactDOM were split into two libraries was due to the arrival of 
+    React Native. React contains functionality utilised in web and mobile apps. 
+    ReactDOM functionality is utilised only in web apps
