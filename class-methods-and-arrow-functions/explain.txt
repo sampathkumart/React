@@ -1,0 +1,10 @@
+1.Arrow function:
+    The fat arrow => is used to define anonymous functions. There are two important
+differences in the behavior of these functions, compared to functions defined with 
+function . First, the binding for the keyword this is the same outside and inside the 
+fat arrow function. ... The fat arrow function syntax can vary a bit.
+
+2.class methods:
+A React Component written with a JavaScript class comes with methods like 
+the class constructor -- which is primarily used in React to set initial state or to bind 
+methods -- and the mandatory render method to return JSX as output
