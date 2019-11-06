@@ -1,0 +1,3 @@
+1.Two ways to initialize state
+There are two ways to initialize state in a React component: inside the constructor, 
+and directly inside the class
