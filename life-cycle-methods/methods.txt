@@ -1,0 +1,5 @@
+React lifecycle methods:
+
+Mounting-Birth of your component
+Update-Growth of your component
+Unmount-Death of your component
